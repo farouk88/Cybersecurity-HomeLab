@@ -30,9 +30,9 @@ This repository documents a personal cybersecurity and networking lab built usin
 
 ## Contents
 
-- `network-basics.md` — Setup and experiments with ping, nc, ftp, http
-- `captures/` — Wireshark `.pcapng` files for each task
-- `screenshots/` — Wireshark screenshots, command-line outputs
+- `basic_protocols` Setup and experiments with different basic protocols
+- `captures/` Wireshark `.pcapng` files for each task
+- `screenshots/` Wireshark screenshots, command-line outputs
 
 ## Tools Used
 
@@ -44,7 +44,7 @@ This repository documents a personal cybersecurity and networking lab built usin
 
 ---
 
-## 🚧 Status
+## Status
 
 This is a work in progress. More themes will be added (scanning, exploits, etc.) as the lab evolves.
 
