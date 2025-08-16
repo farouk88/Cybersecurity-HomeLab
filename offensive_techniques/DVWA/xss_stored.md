@@ -1,6 +1,3 @@
-**File 2: `xss_stored.md`**
-
-```markdown
 # XSS Stored - DVWA
 
 **Environment:**  
@@ -15,11 +12,9 @@
 1. On Kali, set a malicious payload in the input form of the DVWA XSS (Stored) module:
    ```html
    <script>alert('XSS Stored');</script>
-````
 
 2. Submit the form.
 
----
 
 ## Result
 
@@ -31,5 +26,3 @@
 * Stored XSS executes automatically for anyone visiting the page.
 * More dangerous than reflected XSS since it does not require further victim interaction.
 * Can be exploited to steal credentials, escalate privileges, or hijack sessions.
-
-```

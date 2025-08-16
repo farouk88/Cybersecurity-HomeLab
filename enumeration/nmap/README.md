@@ -1,6 +1,3 @@
-**File: `enumeration/nmap/README.md`**
-
-```markdown
 # Nmap
 
 Nmap is used for network discovery and service enumeration.  
@@ -25,7 +22,4 @@ Nmap is used for network discovery and service enumeration.
 - `-A` : aggressive mode (`-sC -sV -O -traceroute`)  
 - `--script=http-enumerate` : enumerate HTTP services  
 - `--script=vuln` : run vulnerability scripts  
-- `-traceroute` : discover network path
-```
-
----
+- `--traceroute` : discover network path
