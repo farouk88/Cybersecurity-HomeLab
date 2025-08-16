@@ -1,0 +1,15 @@
+# Nmap 7.95 scan initiated Sat Aug 16 14:34:00 2025 as: /usr/lib/nmap/nmap --privileged -traceroute -oN 9.txt 192.168.20.12
+Nmap scan report for 192.168.20.12
+Host is up (0.00036s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT   STATE SERVICE
+21/tcp open  ftp
+22/tcp open  ssh
+80/tcp open  http
+MAC Address: 08:00:27:24:74:24 (PCS Systemtechnik/Oracle VirtualBox virtual NIC)
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   0.36 ms 192.168.20.12
+
+# Nmap done at Sat Aug 16 14:34:13 2025 -- 1 IP address (1 host up) scanned in 13.32 seconds

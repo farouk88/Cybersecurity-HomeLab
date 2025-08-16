@@ -1,0 +1,12 @@
+# Nmap 7.95 scan initiated Sat Aug 16 14:28:21 2025 as: /usr/lib/nmap/nmap --script=vuln -p80 -oN 8.txt 192.168.20.12
+Nmap scan report for 192.168.20.12
+Host is up (0.00090s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+|_http-stored-xss: Couldn't find any stored XSS vulnerabilities.
+|_http-dombased-xss: Couldn't find any DOM based XSS.
+|_http-csrf: Couldn't find any CSRF vulnerabilities.
+MAC Address: 08:00:27:24:74:24 (PCS Systemtechnik/Oracle VirtualBox virtual NIC)
+
+# Nmap done at Sat Aug 16 14:28:56 2025 -- 1 IP address (1 host up) scanned in 34.94 seconds

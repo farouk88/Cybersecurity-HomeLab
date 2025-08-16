@@ -1,0 +1,9 @@
+# Nmap 7.95 scan initiated Sat Aug 16 14:26:27 2025 as: /usr/lib/nmap/nmap --privileged --script=http-enum -p80 -oN 7.txt 192.168.20.12
+Nmap scan report for 192.168.20.12
+Host is up (0.00083s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 08:00:27:24:74:24 (PCS Systemtechnik/Oracle VirtualBox virtual NIC)
+
+# Nmap done at Sat Aug 16 14:26:40 2025 -- 1 IP address (1 host up) scanned in 13.60 seconds

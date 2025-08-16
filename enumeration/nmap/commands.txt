@@ -1,0 +1,8 @@
+nmap -sC -sV 192.168.20.12 -p 1-5000 -oN 1.txt
+nmap -sC 192.168.20.12 -p 1-5000 -oN 2.txt
+nmap 192.168.20.12 -p 1-5000 -oN 3.txt
+nmap -sS 192.168.20.12 -p 1-5000 -oN 4.txt
+nmap -O 192.168.20.12 -p 1-5000 -oN 6.txt
+nmap --script=http-enumerate 192.168.20.12 -p80 -oN 7.txt
+nmap --script=vuln 192.168.20.12 -p80 -oN 8.txt
+nmap -traceroute 192.168.20.12 -oN 9.txt

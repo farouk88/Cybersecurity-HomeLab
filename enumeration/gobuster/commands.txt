@@ -1,0 +1,3 @@
+gobuster dir -u http://192.168.20.12 -w /usr/share/wordlists/dirb/common.txt -o 1.txt
+gobuster dir -u http://192.168.20.12 -w /usr/share/wordlists/dirb/common.txt -x php,html,htm,py,git -o 2.txt
+gobuster dns -d 192.168.20.12 -w /usr/share/wordlists/dirb/common.txt -o 3.txt

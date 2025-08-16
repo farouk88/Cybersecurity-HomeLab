@@ -1,0 +1,18 @@
+# Nmap 7.95 scan initiated Sat Aug 16 14:06:48 2025 as: /usr/lib/nmap/nmap --privileged -sC -sV -p 1-5000 -oN 1.txt 192.168.20.12
+Nmap scan report for 192.168.20.12
+Host is up (0.00035s latency).
+Not shown: 4997 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+21/tcp open  ftp     ProFTPD
+22/tcp open  ssh     OpenSSH 9.2p1 Debian 2+deb12u7 (protocol 2.0)
+| ssh-hostkey: 
+|   256 fa:c7:cb:6b:ee:d6:4e:cc:14:30:61:84:aa:aa:d1:32 (ECDSA)
+|_  256 5b:6e:b0:95:26:3a:62:c0:17:8e:a2:23:4d:9d:72:84 (ED25519)
+80/tcp open  http    Apache httpd 2.4.62 ((Debian))
+|_http-server-header: Apache/2.4.62 (Debian)
+|_http-title: Apache2 Debian Default Page: It works
+MAC Address: 08:00:27:24:74:24 (PCS Systemtechnik/Oracle VirtualBox virtual NIC)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Aug 16 14:07:15 2025 -- 1 IP address (1 host up) scanned in 26.95 seconds
